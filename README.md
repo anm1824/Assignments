@@ -1,3 +1,3 @@
 # Assignments
 
-This is my read-me file
+This project is for maintaining all the python files related to the assignments from IIT Madras AI/ML course
